@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Beginner", "Beginner", "{02666918-44D2-4E76-9F92-FEF8BC7ADDC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Learn to Program with C++ 17", "01-Learn to Program with C++ 17", "{46E39196-11D2-44E9-A9D5-FFF79B1B0DAB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learn to Program with C++ 17", "Learn to Program with C++ 17\Learn to Program with C++ 17.vcxproj", "{D4531732-96DF-4A04-98EE-DBB9614FB360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Debug|x64.ActiveCfg = Debug|x64
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Debug|x64.Build.0 = Debug|x64
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Debug|x86.Build.0 = Debug|Win32
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x64.ActiveCfg = Release|x64
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x64.Build.0 = Release|x64
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x86.ActiveCfg = Release|Win32
+		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{46E39196-11D2-44E9-A9D5-FFF79B1B0DAB} = {02666918-44D2-4E76-9F92-FEF8BC7ADDC2}
+		{D4531732-96DF-4A04-98EE-DBB9614FB360} = {46E39196-11D2-44E9-A9D5-FFF79B1B0DAB}
+	EndGlobalSection
+EndGlobal

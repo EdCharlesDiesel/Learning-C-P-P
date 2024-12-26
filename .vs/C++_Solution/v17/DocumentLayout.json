@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\x\\xx\\C\u002B\u002B_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|solutionrelative:Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Learn to Program with C\u002B\u002B 17.cpp",
+              "DocumentMoniker": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
+              "RelativeDocumentMoniker": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
+              "ToolTip": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp*",
+              "RelativeToolTip": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T12:16:14.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
