@@ -1,13 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Beginner", "Beginner", "{02666918-44D2-4E76-9F92-FEF8BC7ADDC2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Learn to Program with C++ 17", "01-Learn to Program with C++ 17", "{46E39196-11D2-44E9-A9D5-FFF79B1B0DAB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learn to Program with C++ 17", "Learn to Program with C++ 17\Learn to Program with C++ 17.vcxproj", "{D4531732-96DF-4A04-98EE-DBB9614FB360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A Complete Guide to Programming C++", "A Complete Guide to Programming C++", "{7BB7E4B2-3A9E-4042-8A57-4A4746F9254E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\KMokhethi\Documents\Books\C++ (1).pdf = ..\..\..\Users\KMokhethi\Documents\Books\C++ (1).pdf
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_1_Fundamentals", "Chapter_1_Fundamentals\Chapter_1_Fundamentals.vcxproj", "{3B29D58F-76E5-43C0-B060-926E9A816E8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +32,14 @@ Global
 		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x64.Build.0 = Release|x64
 		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x86.ActiveCfg = Release|Win32
 		{D4531732-96DF-4A04-98EE-DBB9614FB360}.Release|x86.Build.0 = Release|Win32
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Debug|x64.ActiveCfg = Debug|x64
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Debug|x64.Build.0 = Debug|x64
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Debug|x86.Build.0 = Debug|Win32
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Release|x64.ActiveCfg = Release|x64
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Release|x64.Build.0 = Release|x64
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Release|x86.ActiveCfg = Release|Win32
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +47,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{46E39196-11D2-44E9-A9D5-FFF79B1B0DAB} = {02666918-44D2-4E76-9F92-FEF8BC7ADDC2}
 		{D4531732-96DF-4A04-98EE-DBB9614FB360} = {46E39196-11D2-44E9-A9D5-FFF79B1B0DAB}
+		{3B29D58F-76E5-43C0-B060-926E9A816E8F} = {7BB7E4B2-3A9E-4042-8A57-4A4746F9254E}
 	EndGlobalSection
 EndGlobal

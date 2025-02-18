@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\x\\xx\\C\u002B\u002B_Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B29D58F-76E5-43C0-B060-926E9A816E8F}|Chapter_1_Fundamentals\\Chapter_1_Fundamentals.vcxproj|C:\\x\\xx\\C\u002B\u002B_Solution\\Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B29D58F-76E5-43C0-B060-926E9A816E8F}|Chapter_1_Fundamentals\\Chapter_1_Fundamentals.vcxproj|solutionrelative:Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|solutionrelative:Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4531732-96DF-4A04-98EE-DBB9614FB360}|Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.vcxproj|solutionrelative:Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Chapter_1_Fundamentals.cpp",
+              "DocumentMoniker": "C:\\x\\xx\\C\u002B\u002B_Solution\\Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp",
+              "RelativeDocumentMoniker": "Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp",
+              "ToolTip": "C:\\x\\xx\\C\u002B\u002B_Solution\\Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp",
+              "RelativeToolTip": "Chapter_1_Fundamentals\\Chapter_1_Fundamentals.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T11:06:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Learn to Program with C\u002B\u002B 17.h",
+              "DocumentMoniker": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h",
+              "RelativeDocumentMoniker": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h",
+              "ToolTip": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h",
+              "RelativeToolTip": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-05T14:27:59.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Learn to Program with C\u002B\u002B 17.cpp",
               "DocumentMoniker": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
               "RelativeDocumentMoniker": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
               "ToolTip": "C:\\x\\xx\\C\u002B\u002B_Solution\\Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
               "RelativeToolTip": "Learn to Program with C\u002B\u002B 17\\Learn to Program with C\u002B\u002B 17.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T12:16:14.209Z",
               "EditorCaption": ""

@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Learn to Program with C++ 17.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Learn to Program with C++ 17.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
